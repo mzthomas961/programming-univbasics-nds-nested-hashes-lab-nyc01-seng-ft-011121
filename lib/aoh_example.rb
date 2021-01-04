@@ -20,6 +20,7 @@ def literal_aoh
     
     array = [{:name=>"Don Gately", :occupation=>"Live-in Staff"},
     [{:name=>"Don Gately", :occupation=>"Live-in Staff"},
+    
 end
 
 def aoh_lookup(aoh, row, key)
