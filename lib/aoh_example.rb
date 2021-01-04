@@ -19,8 +19,8 @@ def literal_aoh
   # held in the constants
     
     array = [{:name=>"Don Gately", :occupation=>"Live-in Staff"},
-   {:name=>"Joelle van Dyne", :occupation=>"Radio Personality
-   
+   {:name=>"Joelle van Dyne", :occupation=>"Radio Personality"}
+   {:name=>"Pat Monteseian", :occupation=>"Staff"},
 
 def aoh_lookup(aoh, row, key)
   
